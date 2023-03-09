@@ -1,0 +1,25 @@
+_repo: The-carriages-at-Shelburne-Museum-b-Museum-pamphlet-series-no-1_70206
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carlisle, Lilian Baker
+    gutenberg_agent_id: '55652'
+    url: http://www.gutenberg.org/2009/agents/55652
+description: ''
+gutenberg_issued: '2023-03-05'
+identifiers:
+  gutenberg: '70206'
+language: en
+pgterms:marc905: 20230304030416carlisle
+pgterms:marc906: '1956'
+pgterms:marc907: US
+production_note: WebRover, Stephen Hutcheson, Karin Spence and the Online Distributed
+  Proofreading Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bThe Shelburne Museum, $c1956.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The carriages at Shelburne Museum : $b (Museum pamphlet series, no. 1)'
+url: http://www.gutenberg.org/ebooks/70206
